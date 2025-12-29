@@ -7,10 +7,5 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "E:/Personal Projects/SkeletionProject_App/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/Module.RiderDebuggerSupport.cpp.obj"
-"E:/Personal Projects/SkeletionProject_App/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/BlueprintStackGetter.cpp.obj"
-"E:/Personal Projects/SkeletionProject_App/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/DebugLogger.cpp.obj"
-"E:/Personal Projects/SkeletionProject_App/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/RiderDebuggerSupport.cpp.obj"
-"E:/Personal Projects/SkeletionProject_App/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/UnrealFunctions.cpp.obj"
-"E:/Personal Projects/SkeletionProject_App/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/WideStringWrapper.cpp.obj"
 "E:/Personal Projects/SkeletionProject_App/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/Default.rc2.res"
 /OUT:"E:/Personal Projects/SkeletionProject_App/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderDebuggerSupport/UnrealEditor-RiderDebuggerSupport.lib"
